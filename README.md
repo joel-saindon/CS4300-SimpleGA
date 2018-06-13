@@ -1,1 +1,0 @@
-# CS4300-SimpleGA
